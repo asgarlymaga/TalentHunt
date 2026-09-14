@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuntBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b442acc4be95e466150230d9ea51c5a6742b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuntBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuntBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
